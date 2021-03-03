@@ -13,6 +13,7 @@ the output is:
     867-5309
     
 Your program must define and call the following function. The return value of GetPhoneNumber is the phone number associated with the specific contact name.
+
 string GetPhoneNumber(const vector<string> &nameVec, const vector<string> &phoneNumberVec, const string &contactName)
 
 Hint: Use two vectors: One for the string names, and the other for the string phone numbers.
